@@ -18,7 +18,7 @@ public class FileHandler {
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
-            sc.nextLine();
+
 
 
         Covid19Data covid19 = null;
